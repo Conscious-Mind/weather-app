@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compose 13 - Show Weather</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_settings">Settings</string>
+</resources>
